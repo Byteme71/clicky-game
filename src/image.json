@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "meg",
+        "image": "./images/1.png",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "carter",
+        "image": "./images/2.png",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "peter",
+        "image": "./images/3.png",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "chris",
+        "image": "./images/4.png",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "cleveland",
+        "image": "./images/5.png",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "elmer",
+        "image": "./images/6.png",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "joe",
+        "image": "./images/7.png",
+        "isClicked": false
+    }, 
+    {
+        "id": 8,
+        "name": "herbert",
+        "image": "./images/8.png",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "lois",
+        "image": "./images/9.png",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "brian",
+        "image": "./images/10.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "quagmire",
+        "image": "./images/11.png",
+        "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "stewie",
+        "image": "./images/12.png",
+        "isClicked": false
+    }
+]

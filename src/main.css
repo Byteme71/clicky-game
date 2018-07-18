@@ -1,0 +1,23 @@
+body {
+    background-image: url("../src/background.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+img{
+margin: 10px 10px 10px 10px;
+}
+
+.jumbotron {
+    margin-bottom: 10px !important;
+    border-radius: 10px;
+    box-shadow: 0 8px 6px -6px black;
+    padding-top: 45px !important;
+    padding-bottom: 45px !important;
+}
+
+.card {
+    border-radius: 10px;
+    opacity: 0.9;
+}
